@@ -1,10 +1,13 @@
 Salary 
-Ganesh123 : 100M$
-Asha : 5000M$
-Navi : 5000M$
-Yaswant : 5000M$
-Anuradha : 5000M$
-Asha : 5000M$
-Anudeep : 5000M$
-Praveen : 5000M$
-Anusha : 5000M$
+Ganesh123 :10$
+
+All the below Employs should be compensated with 10000M$
+Asha : 
+
+Navi
+Yaswant
+Anuradha
+Asha
+Anudeep
+Praveen
+Anusha
