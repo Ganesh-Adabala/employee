@@ -1,3 +1,10 @@
 Salary 
 Ganesh123 : 1000M$
 Asha : 5000M$
+Navi : 5000M$
+Yaswant : 5000M$
+Anuradha : 5000M$
+Asha : 5000M$
+Anudeep : 5000M$
+Praveen : 5000M$
+Anusha : 5000M$
