@@ -1,5 +1,5 @@
 Salary 
-Ganesh123 : 1000M$
+Ganesh123 : 100M$
 Asha : 5000M$
 Navi : 5000M$
 Yaswant : 5000M$
